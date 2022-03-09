@@ -41,6 +41,11 @@
 			"domain_files": ["hirez.txt"]
 		},
 		{
+			"name": "hp",
+			"description": "CDN for hp",
+			"domain_files": ["hp.txt"]
+		},
+		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
 			"domain_files": ["nexusmods.txt"]
